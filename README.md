@@ -10,15 +10,14 @@ Maintaining strong ethics is paramount in my work. I apply my skills responsibly
 
 ---
 
-## Languages and 
+## Languages 
 <div>
-
-### Languages:
+  
 | Python | C | JS | BASH |
 |----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="55" height="55"/>|
 
-### OS: ❤️ (linux & termux)
+### OS: ❤️ (linux)
 
 | Linux | Ubuntu | Kali |
 |----------|----------|----------|
